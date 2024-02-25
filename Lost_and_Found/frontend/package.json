@@ -27,6 +27,7 @@
     "react-toastify": "^9.1.1",
     "start": "^5.1.0",
     "styled-components": "^5.3.9",
+    "tailwindcss": "^3.4.1",
     "web-vitals": "^2.1.4",
     "xlsx": "^0.18.5"
   },
